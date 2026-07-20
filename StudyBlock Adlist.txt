@@ -27,6 +27,7 @@
 ||royalroad.com^
 ||spankbang.com^
 ||tiktok.com^
+||tiktokcdn.com^
 ||twitch.tv^
 ||xvideos.com^
 ||yarrlist.net^
