@@ -1,3 +1,11 @@
-comick.io
-https://www.netflix.com
+||comick.io^
+||comix.to^
+||crunchyroll.com^
+||hbomax.com^
+||hulu.com^
+||mangadex.org^
+||netflix.com^
+||pawchive.pw
 ||royalroad.com^
+||tiktok.com^
+||twitch.tv^
