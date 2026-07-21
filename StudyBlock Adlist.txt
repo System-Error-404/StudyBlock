@@ -20,6 +20,7 @@
 ||facebook.com^
 ||fapello.com^
 ||flickystream.dad^
+||gamcore.com^
 ||grrlpowercomic.com^
 ||hbomax.com^
 ||hulu.com^
@@ -49,3 +50,4 @@
 ||wmovies.org^
 ||xvideos.com^
 ||yarrlist.net^
+||youtube.com^
